@@ -1,5 +1,5 @@
 ## Hi there, I'm Oleh 👋
-### I'm a frontend developer
+### I am a frontend developer striving to become a fullstack developer 💪
 
 I like
 </br>
@@ -22,6 +22,15 @@ and coding of course :computer:
 <img width="30px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img width="30px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
+</div>
+</br>
+</br>
+</br>
+<div styles="display: flex, flex-wrap: wrap">
+  -  🌱 I’m currently learning    
+  <img width="30px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+  <img width="30px" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+  <img width="30px" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 </div>
 
 
