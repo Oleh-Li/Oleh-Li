@@ -1,5 +1,7 @@
 ## Hi there, I'm Oleh 👋
 
+- 📫 How to reach me: rrrgo3@gmail.com OR TG: @Mangenda
+
 <!--
 **Oleh-Li/Oleh-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+🔭 Working on a lot of different stuff
+🌱 Learning everything I can get my hands on
+🤔 Looking for help with finding more time in a single day
+📫 How to reach me: alexander.repeta@gmail.com
+⚡ Fun fact: I love what I do - code and help people learn coding
 -->
